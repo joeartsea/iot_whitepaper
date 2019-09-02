@@ -3,8 +3,9 @@
 ## Directory structure
 
 ```
-[README.md](./README.md)
-[Related technology](./related_technology.md)
+.
+├── README.md
+├── related_technology.md
 ```
 
 ## Requirements
